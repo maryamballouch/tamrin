@@ -1,0 +1,35 @@
+*{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:40px;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    align-content:space-between;
+    align-items:flex-start;
+    background-color:  #26b8e4;
+    border:double;
+    border-width :10px;
+    border-color:#ffef0b ;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 10px;
+    
+}
+input{
+    border:double;
+    border-width :5px;
+    border-color:#ffef0b ;
+    margin-top:1%;
+}
+textarea{
+    border:double;
+    border-width :5px;
+    border-color:#ffef0b ;
+}
+
